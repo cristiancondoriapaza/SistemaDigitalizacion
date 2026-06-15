@@ -1,0 +1,56 @@
+[
+  {
+    "usuario": "CRISTIAN",
+    "password": "123",
+    "rol": "ESTUDIANTE",
+    "nombre_completo": "CRISTIAN CONDORI"
+  },
+  {
+    "usuario": "MARIA",
+    "password": "123",
+    "rol": "TRABAJO_SOCIAL",
+    "nombre_completo": "MARIA LOPEZ"
+  },
+  {
+    "usuario": "COMISION",
+    "password": "123",
+    "rol": "COMISION_BECAS",
+    "nombre_completo": "TRIBUNAL DE BECAS"
+  },
+  {
+    "usuario": "JUAN",
+    "password": "123",
+    "rol": "FINANZAS",
+    "nombre_completo": "JUAN PEREZ (FINANZAS)"
+  },
+  {
+    "usuario": "TUTOR1",
+    "password": "123",
+    "rol": "TUTOR",
+    "nombre_completo": "ING. CARLOS MENDOZA"
+  },
+  {
+    "usuario": "BIBLIOTECA",
+    "password": "123",
+    "rol": "BIBLIOTECA",
+    "nombre_completo": "ENCARGADO BIBLIOTECA CENTRAL"
+  },
+  {
+    "usuario": "CAJAS",
+    "password": "123",
+    "rol": "CAJAS",
+    "nombre_completo": "VENTANILLA DE CAJAS"
+  },
+  {
+    "usuario": "ZULEMA",
+    "password": "123",
+    "rol": "KARDEX",
+    "nombre_completo": "ZULEMA MAMANI"
+  },
+  {
+    "usuario": "DIRECTOR",
+    "password": "123",
+    "rol": "DIRECTOR",
+    "nombre_completo": "DR. ROBERTO FERNANDEZ"
+  }
+]
