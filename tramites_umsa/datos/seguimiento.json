@@ -1,0 +1,191 @@
+[
+    {
+        "nrotramite": 1001,
+        "flujo": "F2",
+        "proceso": "P1",
+        "usuario": "CRISTIAN",
+        "rol": "ESTUDIANTE",
+        "fechaini": "2026-06-10 23:59:42",
+        "fechafin": "2026-06-10 23:59:52"
+    },
+    {
+        "nrotramite": 1001,
+        "flujo": "F2",
+        "proceso": "P2",
+        "usuario": "TUTOR1",
+        "rol": "TUTOR",
+        "fechaini": "2026-06-10 23:59:52",
+        "fechafin": "2026-06-11 00:00:09"
+    },
+    {
+        "nrotramite": 1001,
+        "flujo": "F2",
+        "proceso": "P3",
+        "usuario": "TUTOR1",
+        "rol": "TUTOR",
+        "fechaini": "2026-06-11 00:00:09",
+        "fechafin": "2026-06-11 00:00:14"
+    },
+    {
+        "nrotramite": 1001,
+        "flujo": "F2",
+        "proceso": "P1",
+        "usuario": "CRISTIAN",
+        "rol": "ESTUDIANTE",
+        "fechaini": "2026-06-11 00:00:14",
+        "fechafin": "2026-06-11 00:08:29"
+    },
+    {
+        "nrotramite": 1001,
+        "flujo": "F2",
+        "proceso": "P2",
+        "usuario": "TUTOR1",
+        "rol": "TUTOR",
+        "fechaini": "2026-06-11 00:08:29",
+        "fechafin": "2026-06-11 00:08:48"
+    },
+    {
+        "nrotramite": 1001,
+        "flujo": "F2",
+        "proceso": "P3",
+        "usuario": "TUTOR1",
+        "rol": "TUTOR",
+        "fechaini": "2026-06-11 00:08:48",
+        "fechafin": "2026-06-11 00:08:53"
+    },
+    {
+        "nrotramite": 1001,
+        "flujo": "F2",
+        "proceso": "P4",
+        "usuario": "BIBLIOTECA",
+        "rol": "BIBLIOTECA",
+        "fechaini": "2026-06-11 00:08:53",
+        "fechafin": "2026-06-11 00:09:14"
+    },
+    {
+        "nrotramite": 1001,
+        "flujo": "F2",
+        "proceso": "P5",
+        "usuario": "CRISTIAN",
+        "rol": "ESTUDIANTE",
+        "fechaini": "2026-06-11 00:09:14",
+        "fechafin": "2026-06-11 00:09:39"
+    },
+    {
+        "nrotramite": 1001,
+        "flujo": "F2",
+        "proceso": "P4",
+        "usuario": "BIBLIOTECA",
+        "rol": "BIBLIOTECA",
+        "fechaini": "2026-06-11 00:09:39",
+        "fechafin": "2026-06-11 00:09:53"
+    },
+    {
+        "nrotramite": 1001,
+        "flujo": "F2",
+        "proceso": "P6",
+        "usuario": "CAJAS",
+        "rol": "CAJAS",
+        "fechaini": "2026-06-11 00:09:53",
+        "fechafin": "2026-06-11 00:10:04"
+    },
+    {
+        "nrotramite": 1001,
+        "flujo": "F2",
+        "proceso": "P7",
+        "usuario": "CRISTIAN",
+        "rol": "ESTUDIANTE",
+        "fechaini": "2026-06-11 00:10:04",
+        "fechafin": "2026-06-11 00:10:20"
+    },
+    {
+        "nrotramite": 1001,
+        "flujo": "F2",
+        "proceso": "P6",
+        "usuario": "CAJAS",
+        "rol": "CAJAS",
+        "fechaini": "2026-06-11 00:10:20",
+        "fechafin": "2026-06-11 00:10:32"
+    },
+    {
+        "nrotramite": 1001,
+        "flujo": "F2",
+        "proceso": "P8",
+        "usuario": "ZULEMA",
+        "rol": "KARDEX",
+        "fechaini": "2026-06-11 00:10:32",
+        "fechafin": "2026-06-11 00:10:53"
+    },
+    {
+        "nrotramite": 1001,
+        "flujo": "F2",
+        "proceso": "P9",
+        "usuario": "DIRECTOR",
+        "rol": "DIRECTOR",
+        "fechaini": "2026-06-11 00:10:53",
+        "fechafin": "2026-06-11 00:11:17"
+    },
+    {
+        "nrotramite": 1001,
+        "flujo": "F2",
+        "proceso": "P10",
+        "usuario": "CRISTIAN",
+        "rol": "ESTUDIANTE",
+        "fechaini": "2026-06-11 00:11:17",
+        "fechafin": "2026-06-11 00:11:46"
+    },
+    {
+        "nrotramite": 1002,
+        "flujo": "F1",
+        "proceso": "P1",
+        "usuario": "CRISTIAN",
+        "rol": "ESTUDIANTE",
+        "fechaini": "2026-06-11 00:13:05",
+        "fechafin": "2026-06-11 00:13:25"
+    },
+    {
+        "nrotramite": 1002,
+        "flujo": "F1",
+        "proceso": "P2",
+        "usuario": "SIN ASIGNAR",
+        "rol": "TRABAJO_SOCIAL",
+        "fechaini": "2026-06-11 00:13:25",
+        "fechafin": null
+    },
+    {
+        "nrotramite": 1003,
+        "flujo": "F2",
+        "proceso": "P1",
+        "usuario": "CRISTIAN",
+        "rol": "ESTUDIANTE",
+        "fechaini": "2026-06-12 12:28:22",
+        "fechafin": "2026-06-12 12:28:31"
+    },
+    {
+        "nrotramite": 1003,
+        "flujo": "F2",
+        "proceso": "P2",
+        "usuario": "TUTOR1",
+        "rol": "TUTOR",
+        "fechaini": "2026-06-12 12:28:31",
+        "fechafin": "2026-06-12 12:28:44"
+    },
+    {
+        "nrotramite": 1003,
+        "flujo": "F2",
+        "proceso": "P3",
+        "usuario": "TUTOR1",
+        "rol": "TUTOR",
+        "fechaini": "2026-06-12 12:28:44",
+        "fechafin": "2026-06-12 12:28:50"
+    },
+    {
+        "nrotramite": 1003,
+        "flujo": "F2",
+        "proceso": "P1",
+        "usuario": "SIN ASIGNAR",
+        "rol": "ESTUDIANTE",
+        "fechaini": "2026-06-12 12:28:50",
+        "fechafin": null
+    }
+]
